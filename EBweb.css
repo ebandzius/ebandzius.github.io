@@ -1,0 +1,122 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+body {
+
+	 background-image: url("greybackground.jpg");
+	 background-repeat: no-repeat;
+	 background-size:covered;
+		background-color: black;
+}
+
+
+header{
+	background-image: ; 
+	margin-top: 0;
+	text-align: top-left;
+	padding: 50px;
+	color:white;
+	font-size: 15px;
+	background-size: cover;
+	background-position: center;
+	border-bottom-style: double;
+	
+}
+ul{
+	list-style: none;
+	float: right;
+	margin-top: -15px;
+}
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid #fff;
+	border-radius: 15px;
+}
+ a{
+	 color: white;
+	 
+ }
+	 
+	 a:hover{
+		 background-color: red;
+		 cursor: pointer;
+	 }
+
+main{
+	background-position: center;
+	margin-left: 0;
+	margin-right: 0;
+	
+}
+#container{
+width: 1000px;
+margin-left: auto;
+margin-right:auto;
+background: ;
+
+}
+
+
+h2{
+	color: white;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
+
+}
+p{
+	font-size: large;
+	color: white;
+	
+	
+}
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: ;
+   color: white;
+   text-align: center;
+   font-size: 30px;
+}
+#kalba {
+	text-align: right;
+	color: white;
+	display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h3{
+color: white;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
+}
+
+h1{
+	color: white;
+}
+bikes{
+	display: flex;
+  align-items: center;
+}
+float-img{
+	float: right;
+	
+	margin-bottom:5px;
+	margin-right:10px;
+}
